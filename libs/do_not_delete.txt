@@ -1,0 +1,4 @@
+This text file is being used to preserve the folder structure in github since empty folders will be removed. 
+
+We need this folder to store your compiled intlibs, but we don't want conflicts every time someone compiles and 
+someone else does not. Thus why the intlibs are gitignored.
