@@ -499,23 +499,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TKWNRRIE
 
 [Document28]
-DocumentPath=sch\RES-1205-TEST.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYALBCXV
-
-[Document29]
 DocumentPath=sch\ERJ-8ENF3003V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -532,7 +515,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYCFTKQW
 
-[Document30]
+[Document29]
 DocumentPath=pcb\RES1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -549,7 +532,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRATQOSW
 
-[Document31]
+[Document30]
 DocumentPath=sch\RES-0402-TEST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +549,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMMBAWVP
 
-[Document32]
+[Document31]
 DocumentPath=pcb\RES0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -583,41 +566,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXDFYJSA
 
-[Document33]
-DocumentPath=sch\RES-0805-TEST.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TBVNKXTP
-
-[Document34]
-DocumentPath=sch\RES-TEST.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LNYZUPQP
-
-[Document35]
+[Document32]
 DocumentPath=sch\CRCW120610K0FKEB.schlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -634,24 +583,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTGLRKEN
 
-[Document36]
-DocumentPath=sch\RES-0603-TEST.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document37]
+[Document33]
 DocumentPath=pcb\RES0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -668,7 +600,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document34]
 DocumentPath=pcb\RES0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,7 +617,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document35]
 DocumentPath=pcb\RES-TEST.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
