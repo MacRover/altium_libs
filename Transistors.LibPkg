@@ -30,8 +30,8 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=..\..\..\elsto\Desktop\Altium\altium_libs\libs
-LogFolderPath=..\..\..\elsto\Desktop\Altium\altium_libs\logs
+OutputPath=libs
+LogFolderPath=logs
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 
@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HQBNSCJL
 
 [Generic_EDE]
-OutputDir=..\..\..\elsto\Desktop\Altium\altium_libs\libs
+OutputDir=libs
 
 [Generic_IntLibOptions]
 OldFormat=False
