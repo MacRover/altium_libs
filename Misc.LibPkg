@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EXFXSLBB
 
 [Document3]
-DocumentPath=sch\TitleBlock.SchLib
+DocumentPath=sch\TL331QDBVRQ1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,7 +159,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JZKZXFCS
 
 [Document8]
-DocumentPath=pcb\FC -203 15mm.PcbLib
+DocumentPath=pcb\FC-203_15mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -176,7 +176,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UYKWYRLQ
 
 [Document9]
-DocumentPath=sch\Mounting Hole.SchLib
+DocumentPath=sch\MP-M3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -193,7 +193,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XAIULASR
 
 [Document10]
-DocumentPath=pcb\Mounting Hole.PcbLib
+DocumentPath=pcb\MP-M3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

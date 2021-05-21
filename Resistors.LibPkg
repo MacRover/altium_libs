@@ -1554,23 +1554,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UGBCSSXL
 
 [Document90]
-DocumentPath=sch\RES1225 (Reversed).PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NLTEYJST
-
-[Document91]
 DocumentPath=sch\CRCW04021M82FKED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1587,7 +1570,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPMYRJYY
 
-[Document92]
+[Document91]
 DocumentPath=sch\RC0201FR-07909KL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1604,7 +1587,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFNVDNYX
 
-[Document93]
+[Document92]
 DocumentPath=pcb\RES2512.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
