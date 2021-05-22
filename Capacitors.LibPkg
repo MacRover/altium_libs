@@ -479,7 +479,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PQUITISY
+DocumentUniqueId=XHSXHYXR
 
 [Document27]
 DocumentPath=sch\UMK316BBJ106KL-T.SchLib
@@ -839,7 +839,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VGYMBFVK
 
 [Document48]
-DocumentPath=pcb\Radial 10x25mm.PcbLib
+DocumentPath=pcb\Radial_10x25mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -870,7 +870,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VOEEKAFG
 
 [Generic_EDE]
 OutputDir=libs
