@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UHRASQTO
+DocumentUniqueId=HFCNZFAE
 
 [Document2]
 DocumentPath=pcb\STM32BlackPill.PcbLib
@@ -88,7 +88,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XOCHPMAY
+DocumentUniqueId=MXOYGBAW
 
 [Document4]
 DocumentPath=pcb\SOT-23-5.PcbLib
@@ -122,7 +122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SKHEEHRT
+DocumentUniqueId=DMSIAAIQ
 
 [Document6]
 DocumentPath=pcb\Testpoint.PcbLib
@@ -156,7 +156,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KXGJCTMZ
+DocumentUniqueId=SOFLAVXE
 
 [Document8]
 DocumentPath=pcb\FC-203_15mm.PcbLib
@@ -190,7 +190,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VOLSGKTH
+DocumentUniqueId=WDHEHPTS
 
 [Document10]
 DocumentPath=pcb\MP-M3.PcbLib
@@ -241,7 +241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ODCQKFQQ
+DocumentUniqueId=TYCBDQTU
 
 [Document13]
 DocumentPath=pcb\01000020Z_20mm.PcbLib
@@ -275,7 +275,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PLYASZFR
+DocumentUniqueId=FUWVNCUF
 
 [Document15]
 DocumentPath=pcb\01000020Z_15mm.PcbLib
@@ -309,7 +309,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XRYKGWQK
+DocumentUniqueId=YQRPBRFO
+
+[Document17]
+DocumentPath=pcb\8 SO-EP.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWFGCNBS
+
+[Document18]
+DocumentPath=sch\MAX9919NASA+.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZNCRMWGN
 
 [Generic_EDE]
 OutputDir=libs
